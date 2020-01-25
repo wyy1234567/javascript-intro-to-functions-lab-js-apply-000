@@ -18,6 +18,6 @@ function sayHiToGrandma(string) {
   var lowerCase = 'hello'
   
   if (string === lowerCase) {
-    
+    return ""
   }
 }
